@@ -6,3 +6,9 @@ blue
 pink
 black
 grey
+
+horn
+wings
+hair
+ears
+tail
